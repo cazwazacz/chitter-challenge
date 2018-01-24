@@ -1,6 +1,7 @@
 # Chitter Challenge
 
 This project is live [here](https://afternoon-inlet-98969.herokuapp.com/).
+![img](/img/screenshot.png)
 ---
 The following user stories have been implemented in this application.
 ```
